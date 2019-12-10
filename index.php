@@ -1,6 +1,6 @@
 <html>
 <head>
-Science Fare 2019
+Science Fair 2019 - Script by: RevokedCookie
 <?php
 $ip = $_SERVER['REMOTE_ADDR'];
 ?>
