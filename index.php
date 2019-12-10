@@ -62,7 +62,7 @@ if(isset($_GET['ip'])&&isset($_GET['secs'])){
                     fclose($fp);
             }
     }
-    echo "<font size=4><br><b></b><br>Sent $packets packets to  $ip at ". round($packets/$exec_time, 2) . " packets a second for $exec_time seconds.\n";
+    echo "<font size=4><br><b></b><br>Sent $packets packets to  $host at ". round($packets/$exec_time, 2) . " packets a second for $exec_time seconds.\n";
     echo '<br><br>
     <input type="hidden" name="act" value="php" required>
     <font color="blue" size=4><b>Server IP: </b><br><input  class="textbox" type=text name=ip required><br>Seconds: <br><input type=text name=secs required><br><input type=submit value=SEND_PACKETS required></form>
