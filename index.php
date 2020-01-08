@@ -1,6 +1,6 @@
 <html>
 <head>
-Science Fair 2019 - Script by: RevokedCookie
+Science Fair 2020 - Script by: C0braD3v
 <?php
 $ip = $_SERVER['REMOTE_ADDR'];
 ?>
