@@ -17,6 +17,7 @@ If I send many UDP packets to a server for 60 seconds, then the server’s incom
 	You will need: A Windows 10 computer to send packets from (Localhost), A Ubuntu 18.04 server from DigitalOcean.com with 2 vCPUs and 4gb RAM, Xampp software 
   
 <h3>Procedure</h3>
+
 1. First, you will need a hosting server. To get accurate data, you should use a Ubuntu 18.04.04 Virtual Private Server (VPS) with 2vCPU(s), 25GB SSD, 4GB ram, 4TB transfer x64 from DigitalOcean.com. You can use any server, however the network and CPU differences may cause a difference in results.
 
 2. After you purchase a droplet (VPS) from DigitalOcean, Follow all prompts by DigitalOcean to continue setting up you hosting server, and getting the root password. Once finished the setup process, you may login. On a different Windows Computer, press Windows Key + R at the same time. Then, in the prompt, type “CMD”. Your Command Prompt will open. Type the following command: “ssh root@IP”. Fill in “IP” with the IPv4 provided on the DigitalOcean website. Then press enter. NNow, it will prompt for your password. Type or paste (To paste, right click) your root password provided by DigitalOcean during the setup process. NOTE: You will not be able to see the password as you type it, the  After, it will ask you to save this host to your computer. Type “yes” and press enter. If you logged in correctly, you will see something such as “Root@Name:#~”. If you have any issues logging in, setting up, or receiving your root password, contact DigitalOcean.
