@@ -34,7 +34,7 @@ You will need: A Windows 10 computer to send packets from (Localhost), A Ubuntu 
 <img src="https://cdn.discordapp.com/attachments/590436031426199583/691718188093669396/unknown.png">
 
 <h3>Analysis</h3>
-<img src="https://cdn.discordapp.com/attachments/590436031426199583/691717213484220486/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/590436031426199583/691718446140096573/unknown.png">
 My data reflects as I expected it to. As seen in my data table and graph, the maximum MBit/s of bandwidth increased in my trials, due to the server overflowing not being able to handle all the requests. As seen, during my trials the maximum MBit/s or bandwidth increased by 11.9 MBit/s average. This change is a very large difference and reflects on how large the impact of UDP flooding can actually be. Although in my trials I only tested for 60000ms with a fairly weak script, the packets were still powerful enough to have a large impact on the MBit/s of bandwidth. This proves the dangers of these floods, and that when used at much larger scales than the one in this test they can have very large and significant impacts.
 
 <h3>Conclusion</h3>
