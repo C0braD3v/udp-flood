@@ -31,7 +31,7 @@ You will need: A Windows 10 computer to send packets from (Localhost), A Ubuntu 
 5. Now, draw conclusions and observe your data. When you have fully completed the experiment, you may go back to the “XAMPP Control Panel” window. Click “Stop” on “Apache” and “MySQL”. You may then close this window, and uninstall XAMPP if you chose. Also, you may remove your DigitalOcean droplet on the DigitalOcean website by selecting “Kill Droplet”. 
 
 <h3>Data</h3>
-<img src="https://cdn.discordapp.com/attachments/590436031426199583/691716863272681532/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/590436031426199583/691718188093669396/unknown.png">
 
 <h3>Analysis</h3>
 <img src="https://cdn.discordapp.com/attachments/590436031426199583/691717213484220486/unknown.png">
