@@ -7,7 +7,7 @@ All data and experiment information i collected during the Science Fair can be f
 
 <h2>Experiment Overview</h2>
 
-<h3>Abstract<h3>
+<h3>Abstract</h3>
 How do UDP Packet Flooding affect a server's bandwidth? To test this I sent many UDP packets, which are generally used for sending information from client to server, however, in this case, are data packets used to increase bandwidth and create longer latency, to a server for 60 seconds to see how excessive packet requests would effect the maximum server bandwidth. The bandwidth increased a lot during my tests due to the constant packets incoming to the server. On average the bandwidth increased by 11.9 MBit/s during my trials, causing latency to spike and be extremely high. Overall I believe my experiment went very well and my hypothesis was correct.
 	
 <h3>Problem</h3>
